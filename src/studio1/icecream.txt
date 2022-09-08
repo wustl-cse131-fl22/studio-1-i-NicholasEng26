@@ -1,0 +1,19 @@
+
+
+As a group, brainstorm the best data type to represent the following situations:
+
+Often, there is no right or wrong answer. Be prepared to defend your choices.
+
+The number of times you have been to Ted Drewes - int
+
+Whether you like Ted Drewes’ vanilla frozen custard or not - boolean
+
+The number of people you can take in your car - int
+
+The price of a regular size concrete vanilla frozen custard - double
+
+The name of your favorite flavor from Ted Drewes - String
+
+The address of the Ted Drewes - String
+
+The probability that you will see a friend at Ted Drewes - double
